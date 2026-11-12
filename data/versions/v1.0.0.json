@@ -1,0 +1,104 @@
+{
+  "version": "v1.0.0",
+  "words": [
+    {
+      "id": "000001",
+      "word": "abandon",
+      "meanings": [
+        "捨てる",
+        "見捨てる"
+      ],
+      "pronunciation": "/əˈbændən/",
+      "partOfSpeech": "動詞"
+    },
+    {
+      "id": "000002",
+      "word": "ability",
+      "meanings": [
+        "能力",
+        "才能"
+      ],
+      "pronunciation": "/əˈbɪləti/",
+      "partOfSpeech": "名詞"
+    },
+    {
+      "id": "000003",
+      "word": "achieve",
+      "meanings": [
+        "達成する",
+        "成し遂げる"
+      ],
+      "pronunciation": "/əˈtʃiːv/",
+      "partOfSpeech": "動詞"
+    },
+    {
+      "id": "000004",
+      "word": "ancient",
+      "meanings": [
+        "古代の",
+        "大昔の"
+      ],
+      "pronunciation": "/ˈeɪnʃənt/",
+      "partOfSpeech": "形容詞"
+    },
+    {
+      "id": "000005",
+      "word": "attempt",
+      "meanings": [
+        "試みる",
+        "試み"
+      ],
+      "pronunciation": "/əˈtempt/",
+      "partOfSpeech": "名詞・動詞"
+    },
+    {
+      "id": "000006",
+      "word": "benefit",
+      "meanings": [
+        "利益",
+        "恩恵"
+      ],
+      "pronunciation": "/ˈbenɪfɪt/",
+      "partOfSpeech": "名詞・動詞"
+    },
+    {
+      "id": "000007",
+      "word": "challenge",
+      "meanings": [
+        "挑戦",
+        "課題"
+      ],
+      "pronunciation": "/ˈtʃælɪndʒ/",
+      "partOfSpeech": "名詞・動詞"
+    },
+    {
+      "id": "000008",
+      "word": "contain",
+      "meanings": [
+        "含む",
+        "収容する"
+      ],
+      "pronunciation": "/kənˈteɪn/",
+      "partOfSpeech": "動詞"
+    },
+    {
+      "id": "000009",
+      "word": "discover",
+      "meanings": [
+        "発見する",
+        "気づく"
+      ],
+      "pronunciation": "/dɪˈskʌvər/",
+      "partOfSpeech": "動詞"
+    },
+    {
+      "id": "000010",
+      "word": "environment",
+      "meanings": [
+        "環境"
+      ],
+      "pronunciation": "/ɪnˈvaɪrənmənt/",
+      "partOfSpeech": "名詞"
+    }
+  ]
+}
